@@ -13,8 +13,8 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 ## My maps
 
 Edit the text below and add links to the maps that you have created:
+```
+[My static map](`https://autogis-2019.github.io/exercise-5-anttinevalainen/static_map.svg`)
 
- - [My static map](https://github.com/AutoGIS-2019/exercise-5-anttinevalainen/blob/master/docs/static_map.svg)
- - [My interactive map](https://github.com/AutoGIS-2019/exercise-5-anttinevalainen/blob/master/docs/population_change.html)
- - [Link to test map](https://autogis-2018.github.io/exercise-5-anttinevalainen/test_map.html)
- 
+ - [My interactive map](https://autogis-2019.github.io/exercise-5-anttinevalainen/population_change.html)
+ - [Link to test map](https://autogis-2019.github.io/exercise-5-anttinevalainen/test_map.html)
