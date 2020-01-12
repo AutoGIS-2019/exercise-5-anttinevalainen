@@ -85,3 +85,17 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
 
 
+
+
+## Grading: 19.5 / 20
+### Problem 1 - 8.0 / 8.0
+ - Well done & interesting map! Also nicely formatted and documented code which making it effortless to browse through it.
+
+### Problem 2 - 9.5 / 10.0
+ - Same thing - simple but very functional map! Only minor issue is that there is no data source credit for the statistics in the map.
+
+### Problem 3 - 2.0 / 2.0
+Great work!
+Cheers!
+
+Sakke, 2020-01-13
